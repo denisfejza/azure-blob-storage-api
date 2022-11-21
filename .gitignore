@@ -1,3 +1,5 @@
 .vs/
 src/AzureBlobStorage.API/bin/
 src/AzureBlobStorage.API/obj/
+src/AzureBlobStorage.Test/bin/
+src/AzureBlobStorage.Test/obj/
